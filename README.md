@@ -20,8 +20,6 @@ This website serves as a central hub for showcasing information about the confer
 - **Landing Page**: A visually appealing homepage that highlights the conference theme and purpose.
 - **Event Details**:  
   - **Dates, schedule, and venue**.  
-  - **Keynote speakers and sessions**.  
 - **Registration Portal**: Easy-to-use form for participants to register for the event.
-- **Resources**: Articles, white papers, and links related to sustainability and future city technologies.
 - **Contact Page**: For inquiries, partnerships, and further information.
 
